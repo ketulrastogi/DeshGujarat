@@ -104,7 +104,7 @@ class _SingleCategorySliderScreenState extends State<SingleCategorySliderScreen>
               /// Carousel widget
               if (featured.length > 0)
                 Container(
-                  height: 171,
+                  height: 184,
                   child: Carousel(
                     showIndicator: false,
                     pages: featured

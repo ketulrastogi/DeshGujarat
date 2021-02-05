@@ -43,7 +43,7 @@ class _SliderNewsState extends State<SliderNews> {
             ),
           ),
           Container(
-            height: 165.0,
+            height: 210.0,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.all(Radius.circular(3.0)),
               boxShadow: [
